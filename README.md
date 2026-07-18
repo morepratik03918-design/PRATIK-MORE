@@ -1,2 +1,3 @@
 # PRATIK-MORE
 THIS IS  MY FIRST GIT  REPOSITARY
+author - Pratik More
